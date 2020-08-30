@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ReactChatroom/static/css/main.ff68c1a5.chunk.css",
-    "main.js": "/ReactChatroom/static/js/main.7377282f.chunk.js",
-    "main.js.map": "/ReactChatroom/static/js/main.7377282f.chunk.js.map",
-    "runtime-main.js": "/ReactChatroom/static/js/runtime-main.fd61e40f.js",
-    "runtime-main.js.map": "/ReactChatroom/static/js/runtime-main.fd61e40f.js.map",
-    "static/js/2.c4941d73.chunk.js": "/ReactChatroom/static/js/2.c4941d73.chunk.js",
-    "static/js/2.c4941d73.chunk.js.map": "/ReactChatroom/static/js/2.c4941d73.chunk.js.map",
+    "main.js": "/ReactChatroom/static/js/main.e3efd78d.chunk.js",
+    "main.js.map": "/ReactChatroom/static/js/main.e3efd78d.chunk.js.map",
+    "runtime-main.js": "/ReactChatroom/static/js/runtime-main.71fc4a85.js",
+    "runtime-main.js.map": "/ReactChatroom/static/js/runtime-main.71fc4a85.js.map",
+    "static/js/2.fad881da.chunk.js": "/ReactChatroom/static/js/2.fad881da.chunk.js",
+    "static/js/2.fad881da.chunk.js.map": "/ReactChatroom/static/js/2.fad881da.chunk.js.map",
     "index.html": "/ReactChatroom/index.html",
-    "precache-manifest.1e42aa6dcad42d6cbb43e145634bfd8d.js": "/ReactChatroom/precache-manifest.1e42aa6dcad42d6cbb43e145634bfd8d.js",
+    "precache-manifest.21bbddb39afdf86c38fcae8941604fe6.js": "/ReactChatroom/precache-manifest.21bbddb39afdf86c38fcae8941604fe6.js",
     "service-worker.js": "/ReactChatroom/service-worker.js",
     "static/css/main.ff68c1a5.chunk.css.map": "/ReactChatroom/static/css/main.ff68c1a5.chunk.css.map",
-    "static/js/2.c4941d73.chunk.js.LICENSE.txt": "/ReactChatroom/static/js/2.c4941d73.chunk.js.LICENSE.txt",
+    "static/js/2.fad881da.chunk.js.LICENSE.txt": "/ReactChatroom/static/js/2.fad881da.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/ReactChatroom/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd61e40f.js",
-    "static/js/2.c4941d73.chunk.js",
+    "static/js/runtime-main.71fc4a85.js",
+    "static/js/2.fad881da.chunk.js",
     "static/css/main.ff68c1a5.chunk.css",
-    "static/js/main.7377282f.chunk.js"
+    "static/js/main.e3efd78d.chunk.js"
   ]
 }
