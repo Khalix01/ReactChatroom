@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactChatroom/static/css/main.ff68c1a5.chunk.css",
+    "main.js": "/ReactChatroom/static/js/main.ad223904.chunk.js",
+    "main.js.map": "/ReactChatroom/static/js/main.ad223904.chunk.js.map",
+    "runtime-main.js": "/ReactChatroom/static/js/runtime-main.71fc4a85.js",
+    "runtime-main.js.map": "/ReactChatroom/static/js/runtime-main.71fc4a85.js.map",
+    "static/js/2.fad881da.chunk.js": "/ReactChatroom/static/js/2.fad881da.chunk.js",
+    "static/js/2.fad881da.chunk.js.map": "/ReactChatroom/static/js/2.fad881da.chunk.js.map",
+    "index.html": "/ReactChatroom/index.html",
+    "precache-manifest.a14eb4c5f1f1c9061b3c4b1567895e4b.js": "/ReactChatroom/precache-manifest.a14eb4c5f1f1c9061b3c4b1567895e4b.js",
+    "service-worker.js": "/ReactChatroom/service-worker.js",
+    "static/css/main.ff68c1a5.chunk.css.map": "/ReactChatroom/static/css/main.ff68c1a5.chunk.css.map",
+    "static/js/2.fad881da.chunk.js.LICENSE.txt": "/ReactChatroom/static/js/2.fad881da.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactChatroom/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71fc4a85.js",
+    "static/js/2.fad881da.chunk.js",
+    "static/css/main.ff68c1a5.chunk.css",
+    "static/js/main.ad223904.chunk.js"
+  ]
+}
