@@ -1,6 +1,6 @@
 {
   "homepage": "http://khalix01.github.io/ReactChatroom/",
-  "name": "Chatroom",
+  "name": "ReactChatroom",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
