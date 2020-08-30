@@ -1,6 +1,6 @@
 {
   "homepage": "http://khalix01.github.io/ReactChatroom/",
-  "name": "client-side",
+  "name": "Chatroom",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
     "socket.io-client": "^2.3.0"
   },
   "scripts": {
-    "deploy":"gh-pages -d build -r https://github.com/Khalix01/ReactChatroom.git",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
