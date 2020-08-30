@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactChatroom/static/css/main.ff68c1a5.chunk.css",
-    "main.js": "/ReactChatroom/static/js/main.50651da7.chunk.js",
-    "main.js.map": "/ReactChatroom/static/js/main.50651da7.chunk.js.map",
+    "main.js": "/ReactChatroom/static/js/main.9ed14fcb.chunk.js",
+    "main.js.map": "/ReactChatroom/static/js/main.9ed14fcb.chunk.js.map",
     "runtime-main.js": "/ReactChatroom/static/js/runtime-main.2e5d399b.js",
     "runtime-main.js.map": "/ReactChatroom/static/js/runtime-main.2e5d399b.js.map",
     "static/js/2.0981b753.chunk.js": "/ReactChatroom/static/js/2.0981b753.chunk.js",
     "static/js/2.0981b753.chunk.js.map": "/ReactChatroom/static/js/2.0981b753.chunk.js.map",
     "index.html": "/ReactChatroom/index.html",
-    "precache-manifest.dc27146dc3ed0b81df98c8f35140266e.js": "/ReactChatroom/precache-manifest.dc27146dc3ed0b81df98c8f35140266e.js",
+    "precache-manifest.50d034249ef505e384bff7a21b6235ec.js": "/ReactChatroom/precache-manifest.50d034249ef505e384bff7a21b6235ec.js",
     "service-worker.js": "/ReactChatroom/service-worker.js",
     "static/css/main.ff68c1a5.chunk.css.map": "/ReactChatroom/static/css/main.ff68c1a5.chunk.css.map",
     "static/js/2.0981b753.chunk.js.LICENSE.txt": "/ReactChatroom/static/js/2.0981b753.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2e5d399b.js",
     "static/js/2.0981b753.chunk.js",
     "static/css/main.ff68c1a5.chunk.css",
-    "static/js/main.50651da7.chunk.js"
+    "static/js/main.9ed14fcb.chunk.js"
   ]
 }
